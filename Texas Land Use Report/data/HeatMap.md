@@ -1,4 +1,3 @@
-```markdown
 # Python Script for Data Visualization and Analysis on Historical Precipitation Data
 
 ## Main Objective
