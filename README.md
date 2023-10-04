@@ -5,7 +5,7 @@ https://arcg.is/1yza041 (StoryMap)
 https://arcg.is/0SKObC (Web Map + Experience Builder)
 
 ## USC : Spirital Exemplars Around the World  
-https://crcc.usc.edu/spiritual-exemplars-around-the-world/
+https://crcc.usc.edu/spiritual-exemplars-around-the-world/  
 https://arcg.is/1f8mHP (Web Map + Exerience Builder)
 
 ## Bay Park : Healthcare Data Solutions  
