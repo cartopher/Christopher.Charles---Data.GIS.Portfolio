@@ -6,6 +6,7 @@ https://arcg.is/0SKObC (Web Map + Experience Builder)
 
 ## USC : Spirital Exemplars Map  
 https://arcg.is/1f8mHP (Web Map + Exerience Builder)
+https://crcc.usc.edu/spiritual-exemplars-around-the-world/
 
 ## Bay Park : Healthcare Data Solutions  
 (direct link) (ArcGIS Hub)
