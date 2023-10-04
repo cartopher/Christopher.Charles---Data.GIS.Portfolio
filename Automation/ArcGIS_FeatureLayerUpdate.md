@@ -16,51 +16,57 @@ Automate the process of updating a GIS feature layer with new hospice services d
 
 ### Import Libraries
 
-```python
+```
 import os
 import datetime as dt
 import pandas as pd
 from arcgis.gis import GIS
 from arcgis.features import FeatureLayerCollection
+```
 
-Initialize GIS
+### Initialize GIS
 
+```
 gis = GIS("home")
+```
 
-Constants
+## Constants
 
+```
 DATA_PATH = "/arcgis/home/"
 TARGET_CSV = 'Hospice_testing.csv'
 SOURCE_CSV = 'Hospice_update.csv'
 UNIQUE_ID = 'InstitutionID'
 NEW_FOLDER = 'updated_hospice'
+```
+## Functions
 
-Functions
-
-Read CSV as DataFrame
-
+### Read CSV as DataFrame
+```
 def read_csv_as_df(file_path):
     return pd.read_csv(file_path)
-
-Upload CSV to ArcGIS Online
-
+```
+### Upload CSV to ArcGIS Online
+```
 def upload_csv_to_agol(gis, title, file_path):
     item_prop = {'title': title}
     return gis.content.add(item_properties=item_prop, data=file_path)
+```
 
-Create New Folder
-
+### Create New Folder
+```
 def create_new_folder(folder_path):
     if not os.path.exists(folder_path):
         os.mkdir(folder_path)
-
-Main Execution
-
+```
+## Main Execution
+```
 if __name__ == "__main__":
     now = int(dt.datetime.now().timestamp())
     # Further code...
+```
 
-Best Practices
+## Best Practices
 
 	1.	Organized Imports: Keep imports at the top, neatly arranged.
 	2.	Constants: No magic strings or numbers.
