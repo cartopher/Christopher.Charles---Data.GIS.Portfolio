@@ -95,5 +95,3 @@ if __name__ == "__main__":
 4. **Main Execution**: Everything kicks off here, in a linear and easy-to-follow manner.
 
 ---
-
-There you go, obedient student. Notice how Markdown cleanly organizes the content and keeps it readable. It's a powerful tool for documentation. Feel free to ask anything else.
