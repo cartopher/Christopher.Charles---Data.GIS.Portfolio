@@ -1,24 +1,24 @@
 # CHRISTOPHER J. CHARLES (Geographer & Data/GIS Professional)  
 
 ## Chris - Data/GIS Portfolio  
-- Instant Apps:  ([Project Gallery](https://arcg.is/1zvHm8)  
+- Instant Apps:  [Project Gallery](https://arcg.is/1zvHm8)  
 
 # PROFESSIONAL WORK EXPERIENCE  
 
 ## University of Southern California  
 ### Center for Religion and Civic Culture : Spirital Exemplars Project  
-- Publication: ([Spirital Exemplars Around the World](https://crcc.usc.edu/spiritual-exemplars-around-the-world/)  
-- StoryMap: ([Spirital Exemplars Around the World](https://arcg.is/mTGfb)  
-- Experience: ([Spirital Exemplars Around the World](https://arcg.is/1f8mHP)  
-- Web Map: ([Spirital Exemplars Around the World](https://arcg.is/1mHuyf)  
-#### Project Description:  
+- Publication: [Spirital Exemplars Around the World](https://crcc.usc.edu/spiritual-exemplars-around-the-world/)  
+- StoryMap: [Spirital Exemplars Around the World](https://arcg.is/mTGfb)  
+- Experience: [Spirital Exemplars Around the World](https://arcg.is/1f8mHP)  
+- Web Map: [Spirital Exemplars Around the World](https://arcg.is/1mHuyf)  
+#### Description:  
 
 
 ## Center for Nonprofit Management  
 ### Alliance for Girls : Mapping Community-Based Organizations & Nonprofits  
-- Experience: ([Heat Map of Community-Based Organizations & Nonprofits](https://arcg.is/1mrv1D)  
-- Web Map: ([Heat Map of Community-Based Organizations & Nonprofits](https://arcg.is/nXWiK)  
-#### Project Description:  
+- Experience: [Heat Map of Community-Based Organizations & Nonprofits](https://arcg.is/1mrv1D)  
+- Web Map: [Heat Map of Community-Based Organizations & Nonprofits](https://arcg.is/nXWiK)  
+#### Description:  
 
 
 ## Soil for Water  
@@ -27,37 +27,37 @@
 - Report:  
 - StoryMap:  
 - Project Proposal:  
-#### Project Description:  
+#### Description:  
 
 ##### Sources:  
-- ([Soil for Water](https://soilforwater.org/)  
-- ([National Center of Appropriate Technology](https://www.ncat.org/)  
+- [Soil for Water](https://soilforwater.org/)  
+- [National Center of Appropriate Technology](https://www.ncat.org/)  
 
 ## Global CHE Network  
 ### Mobile Application Development  
 - Application:  
-#### Project Description:  
+#### Description:  
 
 ##### Sources:  
-- ([Global CHE Network](https://chenetwork.org/)  
+- [Global CHE Network](https://chenetwork.org/)  
 
 
 ## Bay Park Data Solutions  
 ### Data Product Marketing Project  
-- Hub Site: ([Healthcare Data and Solutions](https://arcg.is/W4v040)  
-#### Project Description:  
+- Hub Site: [Healthcare Data and Solutions](https://arcg.is/W4v040)  
+#### Description:  
 
 ##### Sources:  
-- ([ArcGIS Market Place](https://www.esri.com/en-us/arcgis-marketplace/products?q=bay+park&s=Newest)  
+- [ArcGIS Market Place](https://www.esri.com/en-us/arcgis-marketplace/products?q=bay+park&s=Newest)  
 
 
 ## Bay Park Data Solutions  
 ### ETL-Based Solutions  
 - Script Documentation:  
-#### Project Description:  
+#### Description:  
 
 ##### Sources:  
-- ([MCH Stategic Data](https://www.mchdata.com/)  
+- [MCH Stategic Data](https://www.mchdata.com/)  
 
 
 
@@ -66,15 +66,15 @@
 
 ## Python Project  
 ### Empower Your GIS Workflow with Automated Data Retrieval   
-- Script Documentation: ([Automate Geospatial Data Acquition](https://github.com/cartopher/automate-sangis-python.gAuit)  
-#### Project Description:  
+- Script Documentation: [Automate Geospatial Data Acquition](https://github.com/cartopher/automate-sangis-python.gAuit)  
+#### Summary
 
 
 ## Water Resources (Literature Review)
 ### Priviatization and Depleting Groundwater  
 - Report:  
 - Proposal:  
-#### Report Description:  
+#### Summary
 
 
 ## Data Journaling & Mapping Project
@@ -82,13 +82,13 @@
 - StoryMap:  
 - Experience:  
 - Web Map:  
-#### Project Description:  
+#### Summary
 
 
-## Data Journally & Mapping Project  
+## Data Journaling & Mapping Project  
 ### Voting in Georgia Elections  
 - StoryMap:  
 - Experience:  
 - Web Map:  
 - Project Proposal:  
-#### Project Description:  
+#### Summary
