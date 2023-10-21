@@ -3,7 +3,7 @@
 ## Chris - Data/GIS Portfolio  
 - Email: chris.jonh.charles@gmail.com
 - LinkedIn: [Christopher's Profile](www.linkedin.com/in/chrisjonhcharles)
-- Instant Apps: [Project Gallery](https://arcg.is/1zvHm8)
+- Instant Apps: [Project Gallery](https://arcg.is/1zvHm8) - https://arcg.is/1zvHm8
 
 
 ## University of Southern California  
