@@ -1,29 +1,94 @@
-## National Environmental Health Association : Regional Health Effects of Climate Change  
-https://arcg.is/1yza041 (StoryMap)
+# CHRISTOPHER J. CHARLES (Geographer & Data/GIS Professional)  
 
-## Alliance for Girls : Mapping Community Organizations  
-https://arcg.is/0SKObC (Web Map + Experience Builder)
+## Chris - Data/GIS Portfolio  
+- Instant Apps:  ([Project Gallery](https://arcg.is/1zvHm8)  
 
-## USC : Spirital Exemplars Around the World  
-https://crcc.usc.edu/spiritual-exemplars-around-the-world/  
-https://arcg.is/1f8mHP (Web Map + Exerience Builder)
+# PROFESSIONAL WORK EXPERIENCE  
 
-## Bay Park : Healthcare Data Solutions  
-https://arcg.is/W4v040  
-(direct link) (ArcGIS Hub)
+## University of Southern California  
+### Center for Religion and Civic Culture : Spirital Exemplars Project  
+- Publication: ([Spirital Exemplars Around the World](https://crcc.usc.edu/spiritual-exemplars-around-the-world/)  
+- StoryMap: ([Spirital Exemplars Around the World](https://arcg.is/mTGfb)  
+- Experience: ([Spirital Exemplars Around the World](https://arcg.is/1f8mHP)  
+- Web Map: ([Spirital Exemplars Around the World](https://arcg.is/1mHuyf)  
+#### Project Description:  
 
-## SanGIS : Automate Downloads  
-(direct link) (Python Script)
 
-## Bay Park Data Product : ETL-based Solution  
-(direct link) (Python Script)
+## Center for Nonprofit Management  
+### Alliance for Girls : Mapping Community-Based Organizations & Nonprofits  
+- Experience: ([Heat Map of Community-Based Organizations & Nonprofits](https://arcg.is/1mrv1D)  
+- Web Map: ([Heat Map of Community-Based Organizations & Nonprofits](https://arcg.is/nXWiK)  
+#### Project Description:  
 
-## Soil for Water : Texas Land Use Report  
-(direct link) (Report)
 
-## Map Investigation : Mapping Anti-Asian Hate Crimes in New York City  
-https://arcg.is/11uvzW (Web Map)
+## Soil for Water  
+### Texas Land Use Report  
 
-## Computerized Map Design : Voting Locations in Georgia  
-https://arcg.is/1XGX0X0 (Web Map)
+- Report:  
+- StoryMap:  
+- Project Proposal:  
+#### Project Description:  
 
+##### Sources:  
+- ([Soil for Water](https://soilforwater.org/)  
+- ([National Center of Appropriate Technology](https://www.ncat.org/)  
+
+## Global CHE Network  
+### Mobile Application Development  
+- Application:  
+#### Project Description:  
+
+##### Sources:  
+- ([Global CHE Network](https://chenetwork.org/)  
+
+
+## Bay Park Data Solutions  
+### Data Product Marketing Project  
+- Hub Site: ([Healthcare Data and Solutions](https://arcg.is/W4v040)  
+#### Project Description:  
+
+##### Sources:  
+- ([ArcGIS Market Place](https://www.esri.com/en-us/arcgis-marketplace/products?q=bay+park&s=Newest)  
+
+
+## Bay Park Data Solutions  
+### ETL-Based Solutions  
+- Script Documentation:  
+#### Project Description:  
+
+##### Sources:  
+- ([MCH Stategic Data](https://www.mchdata.com/)  
+
+
+
+
+# Personal Projects & Initiatives  
+
+## Python Project  
+### Empower Your GIS Workflow with Automated Data Retrieval   
+- Script Documentation: ([Automate Geospatial Data Acquition](https://github.com/cartopher/automate-sangis-python.gAuit)  
+#### Project Description:  
+
+
+## Water Resources (Literature Review)
+### Priviatization and Depleting Groundwater  
+- Report:  
+- Proposal:  
+#### Report Description:  
+
+
+## Data Journaling & Mapping Project
+### Mapping Anti-Asian Hate Crimes  
+- StoryMap:  
+- Experience:  
+- Web Map:  
+#### Project Description:  
+
+
+## Data Journally & Mapping Project  
+### Voting in Georgia Elections  
+- StoryMap:  
+- Experience:  
+- Web Map:  
+- Project Proposal:  
+#### Project Description:  
