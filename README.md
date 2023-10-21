@@ -1,6 +1,7 @@
 # CHRISTOPHER J. CHARLES (Geographer & Data/GIS Professional)  
 
 ## Chris - Data/GIS Portfolio  
+- Email: chris.jonh.charles@gmail.com
 - LinkedIn: [Christopher's Profile](www.linkedin.com/in/chrisjonhcharles)
 - Instant Apps: [Project Gallery](https://arcg.is/1zvHm8)
 
