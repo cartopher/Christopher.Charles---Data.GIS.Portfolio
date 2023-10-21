@@ -1,7 +1,8 @@
 # CHRISTOPHER J. CHARLES (Geographer & Data/GIS Professional)  
 
 ## Chris - Data/GIS Portfolio  
-- Instant Apps:  [Project Gallery](https://arcg.is/1zvHm8)  
+- LinkedIn: Christopher's Profile
+- Instant Apps: [Project Gallery](https://arcg.is/1zvHm8)  
 
 # PROFESSIONAL WORK EXPERIENCE  
 
