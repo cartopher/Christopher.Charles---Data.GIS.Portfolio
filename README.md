@@ -6,7 +6,6 @@
 - Instant Apps: [Project Gallery](https://arcg.is/1zvHm8)
 
 
-
 ## University of Southern California  
 ### Center for Religion and Civic Culture : Spirital Exemplars Project  
 - Publication: [Spirital Exemplars Around the World](https://crcc.usc.edu/spiritual-exemplars-around-the-world/)  
