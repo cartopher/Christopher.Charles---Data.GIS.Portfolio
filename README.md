@@ -1,10 +1,10 @@
 # CHRISTOPHER J. CHARLES (Geographer & Data/GIS Professional)  
 
 ## Chris - Data/GIS Portfolio  
-- LinkedIn: Christopher's Profile
-- Instant Apps: [Project Gallery](https://arcg.is/1zvHm8)  
+- LinkedIn: [Christopher's Profile](www.linkedin.com/in/chrisjonhcharles)
+- Instant Apps: [Project Gallery](https://arcg.is/1zvHm8)
 
-# PROFESSIONAL WORK EXPERIENCE  
+
 
 ## University of Southern California  
 ### Center for Religion and Civic Culture : Spirital Exemplars Project  
