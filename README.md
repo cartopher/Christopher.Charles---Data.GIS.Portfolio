@@ -1,4 +1,4 @@
-# CHRISTOPHER J. CHARLES (Geographer & Data/GIS Professional)  
+# CHRISTOPHER J. CHARLES (Data/GIS Professional)  
 
 ## Chris - Data/GIS Portfolio  
 - Email: chris.jonh.charles@gmail.com
