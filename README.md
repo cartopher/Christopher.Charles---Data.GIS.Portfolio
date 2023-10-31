@@ -13,7 +13,7 @@
 - Experience: [Spirital Exemplars Around the World](https://arcg.is/1f8mHP)  
 - Web Map: [Spirital Exemplars Around the World](https://arcg.is/1mHuyf)  
 #### Description:  
-
+Project was selected for showcase at Esri’s 2024 User Conference
 
 ## Center for Nonprofit Management  
 ### Alliance for Girls : Mapping Community-Based Organizations & Nonprofits  
