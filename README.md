@@ -13,18 +13,7 @@ In addition to his mainstream work, Christopher is diving deep into the possibil
 
 Christopher's efforts have not gone unnoticed. His projects are scheduled for showcase at prestigious platforms like Esri's 2024 User Conference, and he has won accolades for his map products at San Diego State University.
 
-For those interested in collaborating on groundbreaking GIS projects or exploring innovative solutions in GeoAI and blockchain, Christopher welcomes the opportunity for discussion. You can reach out to him directly at his email: chris.jonh.charles@gmail.com. To view his complete professional journey and network, visit Christopher's LinkedIn Profile. For a curated gallery showcasing his GIS projects, you're invited to explore his Project Gallery on Instant Apps.
-
----
-
 For those interested in collaborating on groundbreaking GIS projects or exploring innovative solutions in GeoAI and blockchain, Christopher welcomes the opportunity for discussion. You can reach out to him directly at his email: [chris.jonh.charles@gmail.com](mailto:chris.jonh.charles@gmail.com). To view his complete professional journey and network, visit [Christopher's LinkedIn Profile](www.linkedin.com/in/chrisjonhcharles). For a curated gallery showcasing his GIS projects, you're invited to explore his [Project Gallery on Instant Apps](https://arcg.is/1zvHm8).
-
----
-
-- Email: chris.jonh.charles@gmail.com
-- LinkedIn: [Christopher's Profile](www.linkedin.com/in/chrisjonhcharles)
-- Instant Apps: [Project Gallery](https://arcg.is/1zvHm8) - https://arcg.is/1zvHm8
-
 
 ## University of Southern California  
 ### Center for Religion and Civic Culture : Spirital Exemplars Project  
