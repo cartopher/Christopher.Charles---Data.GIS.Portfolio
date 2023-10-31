@@ -1,4 +1,5 @@
-# CHRISTOPHER J. CHARLES (Geographer, Data/GIS Analyst & Developer)  
+# CHRISTOPHER J. CHARLES  
+## Geographer, Data/GIS Analyst & Developer  
 
 ## Chris - Geographer, Data/GIS Analyst & Developer Portfolio  
 - Email: chris.jonh.charles@gmail.com
