@@ -1,6 +1,18 @@
 # CHRISTOPHER J. CHARLES  
 ## Geographer, Data/GIS Analyst & Developer Portfolio
 
+Christopher is a seasoned Data/GIS Analyst with over six years of specialized experience in the field of geospatial data automation and analytics. He has dedicated his career to the development, implementation, and optimization of automated GIS data processes, utilizing cutting-edge platforms like the ArcGIS API for Python to drive sustainable solutions. As an alumnus of San Diego State University, Christopher holds a Bachelor of Science in Geography with a specific emphasis on GIS and Technology.
+
+As an adept GIS Analyst/Developer at Bay Park Data Solutions, he has achieved exceptional milestones in product lifecycle management, employing a holistic approach that blends seamless automation with ArcGIS Hub-integrated marketing strategies. His leadership in humanitarian project development sets the gold standard in client-centric design and agile implementation, focusing on technologies like ArcGIS for Power BI.
+
+Christopher excels in the realm of data automation and training support. He has devised Python-based automation strategies that have reduced GIS data processing time by an astonishing 50%, coupled with tailored training programs that have yielded a 100% end-user satisfaction rate. His approaches to data management have culminated in a 40% reduction in manual GIS tasks, elevating operational efficiency across diverse projects.
+
+With a strong knack for data analysis, Christopher utilizes a comprehensive toolkit including Excel, SQL, and Python to turn complex data sets into actionable insights. His work has been instrumental in fortifying the sustainability agendas of various nonprofit organizations. Moreover, his pre-launch technical documentation caters to a global audience, facilitating field data collection and thereby reinforcing the quality of geospatial data.
+
+In addition to his mainstream work, Christopher is diving deep into the possibilities of GeoAI and blockchain technologies. His independent research focuses on leveraging these emerging technologies for water resource management—a testament to his commitment to address some of the most pressing global challenges. He is an active participant in various industry webinars and online courses to stay abreast of the rapid advancements in these fields.
+
+Christopher's efforts have not gone unnoticed. His projects are scheduled for showcase at prestigious platforms like Esri's 2024 User Conference, and he has won accolades for his map products at San Diego State University.
+
 - Email: chris.jonh.charles@gmail.com
 - LinkedIn: [Christopher's Profile](www.linkedin.com/in/chrisjonhcharles)
 - Instant Apps: [Project Gallery](https://arcg.is/1zvHm8) - https://arcg.is/1zvHm8
