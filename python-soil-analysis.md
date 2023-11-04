@@ -1,4 +1,4 @@
-Certainly. Your code automates the visualization of soil health data, a vital aspect of sustainable land management. Here's the annotated version of your script with added comments that explain its functionality and the importance of the analysis in the context of sustainable land use:
+# This code automates the visualization of soil health data, a vital aspect of sustainable land management:
 
 ```python
 import seaborn as sns
