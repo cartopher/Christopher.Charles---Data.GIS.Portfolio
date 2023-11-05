@@ -70,7 +70,7 @@ with PdfPages('Bamberger-Wildlife Preserve Soil Results.pdf') as pdf:
     # Save the current figure to the PDF.
     pdf.savefig(fig)
     plt.close()
-
 ```
+![Soil Data Table](https://github.com/cartopher/Christopher.Charles---Data.GIS.Portfolio/blob/1a0a240a84774b9a2ce72106d737ad9acfb3d47d/output/images/SoilDataTable.png?raw=true "Soil Data Table Example")
 
 This script doesn't just automate the creation of a report; it's a tool in the larger context of sustainable land management. By analyzing soil health across multiple ranches, it helps inform practices that can rejuvenate and sustain the land. This is critical in regions like Texas, where agriculture is a major part of the economy and the environment is diverse and delicate. Effective soil health management is a cornerstone of sustainable agriculture, as it helps ensure long-term productivity and environmental conservation.
