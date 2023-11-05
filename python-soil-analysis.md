@@ -1,4 +1,4 @@
- # automate and visualize: data tables with python
+ # Automate and Visualize: Data Tables with Python
  
 
 ##### This code automates the visualization of soil health data, a vital aspect of sustainable land management:
