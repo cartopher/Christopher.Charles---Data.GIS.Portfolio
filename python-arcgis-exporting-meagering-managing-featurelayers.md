@@ -1,10 +1,6 @@
-Certainly, transforming this Python script into a tutorial will make a compelling portfolio addition. Here's how we could frame the workflow:
-
----
-
 # ArcGIS Python Script Tutorial: Exporting and Managing Feature Layer Data
 
-In this tutorial, you'll learn how to export a feature layer to a CSV format, manage content within your ArcGIS Online account, and perform basic data manipulation using pandas in a Python environment. This workflow is particularly useful for GIS professionals who wish to automate data backup and simplification for reporting or analysis purposes.
+The Python script exports a feature layer to a CSV format, manages content within your ArcGIS Online account, and performs basic data manipulation using pandas in a Python environment. This workflow is particularly useful for GIS professionals who wish to automate data backup and simplification for reporting or analysis purposes.
 
 ## Prerequisites
 
