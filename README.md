@@ -1,5 +1,5 @@
 # CHRISTOPHER J. CHARLES
-## The Portfolio of a Geographer, Data/GIS Analyst, Developer, and Non-Stop Forward Thinker.
+## The Portfolio of a Geographer, Data/GIS Analyst, and Developer
 
 Christopher is a seasoned Data/GIS Analyst with over six years of specialized experience in the field of geospatial data automation and analytics. He has dedicated his career to the development, implementation, and optimization of automated GIS data processes, utilizing cutting-edge platforms like the ArcGIS API for Python to drive sustainable solutions. As an alumnus of San Diego State University, Christopher holds a Bachelor of Science in Geography with a specific emphasis on GIS and Technology.
 
