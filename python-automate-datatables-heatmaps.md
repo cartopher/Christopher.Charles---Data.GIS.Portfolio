@@ -1,10 +1,7 @@
+# **Automating Data Tables for Soil Health Analysis with Heatmaps in Python**
 We will approach this as if we are creating a series of automated data tables in the form of heatmaps. Each heatmap will act as a data table, visually representing the status of soil health over different times or locations. This is useful for generating consistent reports with a standard format that stakeholders can easily interpret.
 
----
-
-# **Automating Data Tables for Soil Health Analysis with Heatmaps in Python**
-
-In this tutorial, we will explore how to automate the creation of data tables using heatmap visualizations. This method is particularly efficient for environmental scientists and data analysts who need to generate periodic reports on datasets such as soil health measurements.
+We will explore how to automate the creation of data tables using heatmap visualizations. This method is particularly efficient for environmental scientists and data analysts who need to generate periodic reports on datasets such as soil health measurements.
 
 ### **Prerequisites**
 - Python installed on your system.
