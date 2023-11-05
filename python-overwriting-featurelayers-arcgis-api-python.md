@@ -131,4 +131,4 @@ if __name__ == "__main
 ```
 
 Conclusion
-We've walked through an end-to-end process for updating a feature layer in ArcGIS Online. We started by establishing a secure connection to GIS, proceeded with robust data handling using pandas, and concluded by overwriting the existing feature layer with new data. By encapsulating our logic in functions, we’ve made our code modular, reusable, and much easier to maintain
+We've walked through an end-to-end process for updating a feature layer in ArcGIS Online. We started by establishing a secure connection to GIS, proceeded with robust data handling using pandas, and concluded by overwriting the existing feature layer with new data. By encapsulating our logic in functions, we’ve made our code modular, reusable, and much easier to maintain.
