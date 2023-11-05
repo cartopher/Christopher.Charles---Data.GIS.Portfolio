@@ -132,6 +132,3 @@ You have now successfully exported a feature layer to a CSV, managed the content
 
 Remember to replace placeholder text such as 'your_feature_layer_item_id', 'your_organization', 'your_username', 'your_password', and 'your_csv_file.csv' with your actual item IDs, organization URL, username, password, and file paths.
 
----
-
-Feel free to customize and enhance this tutorial to reflect the intricacies of your own script and data management needs. Including visuals, such as screenshots or diagrams, could also significantly enhance the tutorial's effectiveness.
