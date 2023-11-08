@@ -1,5 +1,33 @@
-# **Creating Data Tables using Seaborn HeatMaps**
-Create automated data tables using seaborn heatmaps. This is useful for generating consistent reports with a standard format that stakeholders can easily interpret.
+# **Creating Data Tables using Seaborn Heat Maps**
+
+The Python script is designed to create a standard data table from a Seaborn heatmap to display soil health data in a PDF format. Below is a step-by-step breakdown of what each major segment of the code does:
+
+1. **Environment Setup:**
+   - Imports necessary libraries for file operations, data manipulation, visualization, and PDF output.
+   - Checks if a specified directory (`transects_dir`) exists for storing output and creates it if it does not.
+
+2. **Data Preparation:**
+   - Sets the file paths for input CSV data and output PDF.
+   - Attempts to load a CSV file containing soil data into a pandas DataFrame. If an error occurs during loading, it is printed out and the error is raised, potentially stopping the script.
+
+3. **Visualization Configuration:**
+   - Defines the dimensions and resolution for the figure to be created.
+   - Sets up custom labels for the x-axis (dates of tests) and y-axis (different soil health indicators).
+   - Specifies a dictionary for replacing certain text values in the heatmap, likely to improve readability or cater to specific visualization requirements.
+
+4. **Plotting:**
+   - Initiates a PDF file using `PdfPages` which will store the resulting heatmap.
+   - Creates a matplotlib figure with the predefined dimensions and resolution.
+   - Generates a heatmap from the DataFrame using seaborn's `heatmap` function, with several aesthetic parameters such as the colormap, line widths, annotation settings, etc.
+   - Replaces text in the heatmap annotations based on the earlier defined dictionary.
+
+5. **Customization and Saving:**
+   - Customizes the plot with titles, axis labels, font sizes, and styles.
+   - Adjusts grid lines to enhance the visual appeal, matching the shape and dimensions of the heatmap.
+   - Saves the generated heatmap into the PDF file while ensuring the layout is tight (without unnecessary white space).
+   - Closes the plot to free up resources.
+
+The output is a detailed and visually appealing heatmap in data table form representing various soil health metrics across different testing dates, saved as a PDF file in the specified directory.
 
 ```python
 import os
