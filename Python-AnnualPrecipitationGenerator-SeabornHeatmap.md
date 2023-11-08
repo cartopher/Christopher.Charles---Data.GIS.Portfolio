@@ -1,8 +1,8 @@
 # Annual Precipitation Heatmap Generator
-This script loads precipitation data, processes it, and generates a heatmap visual saved as a PDF.
 
 
-The code you've provided is a Python script that performs the following tasks:
+
+This script loads precipitation data, processes it, and generates a heatmap visual saved as a PDF by performing the following tasks:
 
 1. **Imports Necessary Libraries:**
    - `pandas` (aliased as `pd`): A powerful data manipulation library that is used for loading and preparing data.
