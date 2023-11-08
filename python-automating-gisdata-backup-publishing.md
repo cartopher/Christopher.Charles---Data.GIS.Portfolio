@@ -1,4 +1,4 @@
-# **Automating GIS Data Backup and Publishing with ArcGIS API for Python**
+# **ArcGIS API for Python: Automating GIS Data Backups and Publishing**
 
 Learn how to automate the process of backing up a GIS item from ArcGIS Online, downloading it, and publishing it as a hosted feature layer with this step-by-step guide. 
 
