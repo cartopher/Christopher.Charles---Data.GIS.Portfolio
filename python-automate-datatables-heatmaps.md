@@ -1,68 +1,92 @@
 # **Automating Data Tables for Soil Health Analysis using Seaborn in Python**
 Create automated data tables using seaborn heatmaps. This is useful for generating consistent reports with a standard format that stakeholders can easily interpret.
 
-### **Prerequisites**
-- Python installed on your system.
-- Seaborn, Matplotlib, and Pandas libraries installed.
-- The dataset `bamberger_wildlifepreserve.csv` available in your working directory.
-
-### **Step 1: Create a Directory for Outputs**
-Ensure a folder exists for storing the output heatmaps. If not, create one programmatically.
-
 ```python
-if not os.path.exists("/arcgis/home/transects"):
-    os.mkdir("/arcgis/home/transects")
-```
+import os
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+from matplotlib.colors import ListedColormap
+from matplotlib.backends.backend_pdf import PdfPages
 
-### **Step 2: Load Your Dataset**
-Import the soil health data using pandas, which includes necessary measurements for our analysis.
+# Create the directory if it doesn't exist
+transects_dir = "/arcgis/home/transects"
+if not os.path.exists(transects_dir):
+    os.makedirs(transects_dir)
 
-```python
-df = pd.read_csv('/arcgis/home/transects/bamberger_wildlifepreserve.csv', index_col=0)
-```
+# Define file paths
+csv_file = os.path.join(transects_dir, 'bamberger_wildlifepreserve.csv')
+output_pdf = os.path.join(transects_dir, 'Bamberger-Wildlife Preserve Soil Results.pdf')
 
-### **Step 3: Define Your Visualization Parameters**
-For the heatmaps, decide on the dimensions that will give the best clarity for the data represented.
+# Load the dataset
+try:
+    df = pd.read_csv(csv_file, index_col=0)
+except Exception as e:
+    print(f"An error occurred while reading the file: {e}")
+    # Handle the exception or exit if the file is crucial for further operations
+    raise
 
-```python
-w = 30  # width in inches
-h = 40  # height in inches
-d = 100  # dots per inch
-```
+# Define plot parameters
+fig_width, fig_height, fig_dpi = 30, 40, 100
+x_axis_labels = ['Nov-2017', 'May-2019', 'Oct-2021']
+y_axis_labels = [
+    'Soil pH', 'Soil Organic Matter', 'Soil Respiration', 'Water Extractable Organic Carbon', 'Water Extractable Organic Nitrogen',
+    'Microbially Active Carbon', 'Organic C to Organic N Ratio', 'Organic N to Inorganic N Ratio', 'Organic Nitrogen Release',
+    'Organic Nitrogen Reserve', 'Organic Phosphorus', 'Organic Phosphorus Release', 'Organic Phosphorus Reserve', 'Soil Health Score',
+    'Total Living Biomass', 'Fung: Bacteria', 'Protozoa Bacterial', 'Microaggregate', 'Macroaggregates',
+    'β-glucosidase enzyme - carbon enzyme', 'Permanganate Oxidizable Carbon - labile carbon', 'Water Holding Capacity, inch H2O inch soil¯¹'
+]
 
-### **Step 4: Set Axis Labels**
-Clearly label your axes to match the data points in your dataset for better understanding.
+# Define a dictionary for custom text replacements
+text_replacements = {
+    '0': '',  # Assuming you want to hide zeros
+    '1': 'All Prey',
+    '2': 'All Bact',
+    '0.1': 'n/a'
+}
 
-```python
-x_axis_labels = ['Nov-2017', 'May-2019', 'Oct-2021']  # Time intervals
-y_axis_labels = [...]  # Soil health indicators
-```
+# Start plotting and saving the heatmap
+with PdfPages(output_pdf) as pdf:
+    plt.figure(figsize=(fig_width, fig_height), dpi=fig_dpi)
 
-### **Step 5: Automate the Heatmap Creation**
-Generate heatmaps for each subset of data using a loop if necessary. For each heatmap, set the aesthetic parameters using Seaborn to create a clean data table look.
+    # Create the heatmap
+    heatmap = sns.heatmap(
+        df,
+        cbar=False,
+        xticklabels=x_axis_labels,
+        yticklabels=y_axis_labels,
+        annot=True,
+        fmt="g",
+        cmap=ListedColormap(['ivory']),
+        linewidths=6,
+        linecolor='0.8',
+        square=False,
+        center=0,
+        annot_kws={"size": 45, "color": 'black'}
+    )
 
-```python
-with PdfPages('Bamberger-Wildlife Preserve Soil Results.pdf') as pdf:
-    fig = plt.figure(figsize=(w, h))
-    sns.heatmap(df, annot=True, fmt='d', cmap=ListedColormap(['white']), cbar=False)
-```
+    # Apply text replacements
+    for text in heatmap.texts:
+        text.set_text(text_replacements.get(text.get_text(), text.get_text()))
 
-### **Step 6: Customize the Heatmap**
-Tailor the appearance of each heatmap to enhance readability. Use labels and titles to convey detailed information about each data table.
+    # Set title and axis labels with custom settings
+    plt.title('Wildlife Preserve\n', loc='center', fontsize=80, fontweight="bold")
+    plt.title('Transect Soil Health Results', loc='left', fontsize=65, fontweight="bold")
+    plt.xlabel('\nTest Dates', fontsize=75, fontweight="bold")
+    plt.ylabel('Bamberger\nAnalytes', fontsize=75, fontweight="bold")
+    plt.xticks(rotation=0, fontsize=65)
+    plt.yticks(fontsize=45, style='italic')
 
-```python
-    plt.title('Bamberger Wildlife Preserve Transect Soil Health', fontsize=16)
-    plt.xlabel('Test Dates', fontsize=14)
-    plt.ylabel('Soil Analytes', fontsize=14)
-```
+    # Customize the grid lines
+    heatmap.axhline(y=0, color='darkblue', linewidth=10)
+    heatmap.axhline(y=df.shape[0], color='darkblue', linewidth=10)  # Adjusted to dataset size
+    heatmap.axvline(x=df.shape[1], color='darkblue', linewidth=10)
+    heatmap.axvline(x=0, color='darkblue', linewidth=10)
 
-### **Step 7: Save and Export the Heatmap**
-After displaying the heatmap, save it into a PDF to create a distributable report.
-
-```python
-    plt.show()
-    pdf.savefig(fig, bbox_inches='tight')  # bbox_inches='tight' saves the figure without extra whitespace
+    # Save and close the plot
+    pdf.savefig(bbox_inches='tight')
     plt.close()
+
 ```
 ![Soil Data Table](https://github.com/cartopher/Christopher.Charles---Data.GIS.Portfolio/blob/1a0a240a84774b9a2ce72106d737ad9acfb3d47d/output/images/SoilDataTable.png?raw=true "Soil Data Table Example")
 
