@@ -1,5 +1,34 @@
 # Annual Precipitation Heatmap Generator
-# This script loads precipitation data, processes it, and generates a heatmap visual saved as a PDF.
+This script loads precipitation data, processes it, and generates a heatmap visual saved as a PDF.
+
+
+The code you've provided is a Python script that performs the following tasks:
+
+1. **Imports Necessary Libraries:**
+   - `pandas` (aliased as `pd`): A powerful data manipulation library that is used for loading and preparing data.
+   - `matplotlib.pyplot` (aliased as `plt`): A plotting library used to create visualizations.
+   - `seaborn` (aliased as `sns`): A statistical data visualization library built on top of `matplotlib` that provides a high-level interface for creating attractive and informative statistical graphics.
+   - `PdfPages` from `matplotlib.backends.backend_pdf`: This is used to save multiple plots into a single PDF file.
+
+2. **Defines Constants:**
+   - `DATA_FILE`: The file path to the CSV file containing precipitation data.
+   - `OUTPUT_PDF`: The name of the PDF file where the heatmap will be saved.
+
+3. **Defines a Function to Load and Prepare Data (`load_and_prepare_data`):**
+   - The function reads the CSV data using `pandas` and fills in any missing values by backfilling (using the next valid observation to fill a gap).
+
+4. **Defines a Function to Create a Heatmap and Save it as a PDF (`create_heatmap`):**
+   - This function uses the `seaborn` library to create a heatmap visualization of the input data.
+   - The heatmap is customized with a specific colormap, annotations, and titles.
+   - It uses `PdfPages` to save the figure into a PDF file with a tight bounding box.
+
+5. **Execution of Main Process (`if __name__ == "__main__":`):**
+   - When the script is run, it first loads and prepares the precipitation data from the CSV file specified in `DATA_FILE`.
+   - It creates a subset of the data with selected columns representing the months and the annual average.
+   - The data is then grouped by the 'Year' column, and the mean value for each month and the annual average is calculated.
+   - Finally, it calls the `create_heatmap` function to generate and save the heatmap into a PDF file named as per the `OUTPUT_PDF` constant.
+
+The script is well-structured and modular, making it easy to understand and maintain. The use of functions promotes code reusability and clarity. It is designed to be run as a standalone script, and its execution starts only if it's the main program being run, which is a good practice in Python scripts.
 
 ```python
 # Import modules
