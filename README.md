@@ -17,7 +17,7 @@ For those interested in collaborating on groundbreaking GIS projects or explorin
 ### Spiritual Exemplars: A Global Project on Engaged Spirituality
 - Publication: [Spiritual Exemplars Around the World](https://crcc.usc.edu/spiritual-exemplars-around-the-world/)  
 - StoryMap: [Spiritual Exemplars Around the World](https://arcg.is/mTGfb)
-- StoryMap: - StoryMap: [Environmental Justice & Spiritual Exemplars]()  
+- StoryMap: [Environmental Justice & Spiritual Exemplars]()  
 - Experience Builder: [Spiritual Exemplars Around the World](https://arcg.is/1f8mHP)  
 - Map Viewer: [Spiritual Exemplars Around the World](https://arcg.is/1mHuyf)  
 #### Description:  
