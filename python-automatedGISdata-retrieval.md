@@ -1,4 +1,4 @@
-# Empower Your GIS Workflow with Automated Data Retrieval
+# Empower Your GIS Workflow with Automated GUS Data Retrieval
 
 In this documentation, I will outline how to automate and streamline the repetitive, inefficient, and costly process of manually downloading multiple files from the web onto our operating systems. Rather than downloading files over HTTP with Python Requests, I will explain an alternative solution for accessing, navigating, downloading, and extracting multiple files while automating the output directory structure for easy file retrieval and code reproducibility.
 
