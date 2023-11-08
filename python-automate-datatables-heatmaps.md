@@ -1,4 +1,4 @@
-# **Automating Data Tables for Soil Health Analysis using Seaborn in Python**
+# **Automating Data Tables using Seaborn**
 Create automated data tables using seaborn heatmaps. This is useful for generating consistent reports with a standard format that stakeholders can easily interpret.
 
 ```python
