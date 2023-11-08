@@ -18,15 +18,15 @@ For those interested in collaborating on groundbreaking GIS projects or explorin
 - Publication: [Spiritual Exemplars Around the World](https://crcc.usc.edu/spiritual-exemplars-around-the-world/)  
 - StoryMap: [Spiritual Exemplars Around the World](https://arcg.is/mTGfb)
 - StoryMap: - StoryMap: [Environmental Justice & Spiritual Exemplars]()  
-- Experience: [Spiritual Exemplars Around the World](https://arcg.is/1f8mHP)  
-- Web Map: [Spiritual Exemplars Around the World](https://arcg.is/1mHuyf)  
+- Experience Builder: [Spiritual Exemplars Around the World](https://arcg.is/1f8mHP)  
+- Map Viewer: [Spiritual Exemplars Around the World](https://arcg.is/1mHuyf)  
 #### Description:  
 Project was selected for showcase at Esri’s 2024 User Conference
 
 ## Center for Nonprofit Management  
 ### Alliance for Girls : Mapping Community-Based Organizations & Nonprofits  
-- Experience: [Heat Map of Community-Based Organizations & Nonprofits](https://arcg.is/1mrv1D)  
-- Web Map: [Heat Map of Community-Based Organizations & Nonprofits](https://arcg.is/nXWiK)  
+- Experience Builder: [Heat Map of Community-Based Organizations & Nonprofits](https://arcg.is/1mrv1D)  
+- Map Viewer: [Heat Map of Community-Based Organizations & Nonprofits](https://arcg.is/nXWiK)  
 #### Description:  
 
 
