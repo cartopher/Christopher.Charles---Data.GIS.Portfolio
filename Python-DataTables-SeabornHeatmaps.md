@@ -1,4 +1,4 @@
-# **Automating Data Tables using Seaborn**
+# **Creating Data Tables using Seaborn HeatMaps**
 Create automated data tables using seaborn heatmaps. This is useful for generating consistent reports with a standard format that stakeholders can easily interpret.
 
 ```python
