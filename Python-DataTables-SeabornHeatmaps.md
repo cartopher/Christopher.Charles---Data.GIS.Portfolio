@@ -117,7 +117,3 @@ with PdfPages(output_pdf) as pdf:
 
 ```
 ![Soil Data Table](https://github.com/cartopher/Christopher.Charles---Data.GIS.Portfolio/blob/1a0a240a84774b9a2ce72106d737ad9acfb3d47d/output/images/SoilDataTable.png?raw=true "Soil Data Table Example")
-
-
-### **Conclusion**
-This process efficiently creates a series of data tables in a visual heatmap format, suitable for periodic environmental data reporting. This visual format makes it easier to spot trends and outliers in the dataset across different variables and time points.
