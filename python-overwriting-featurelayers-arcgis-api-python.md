@@ -1,5 +1,5 @@
 # Overwriting Feature Layers with ArcGIS Python API
-We will focus creating a Python script for updating feature layers in ArcGIS Online with best practices. We'll walk through adding robustness and modularity to the process of updating a GIS dataset with new data.
+The Python script is for updating feature layers in ArcGIS Online with best practices, adding robustness and modularity to the process of updating a GIS dataset with new data.
 
 ## Prerequisites:
 - ArcGIS Online Account
@@ -8,10 +8,10 @@ We will focus creating a Python script for updating feature layers in ArcGIS Onl
 - Familiarity with Python, pandas, and the ArcGIS Python API
 
 ## Setup:
-Before we begin, ensure you have a virtual environment set up for your project. This environment should have the `arcgis` Python package installed. You can manage your packages with `pip` and a `requirements.txt` file to keep track of dependencies.
+Ensure the virtual environment set up for this project. This environment should have the `arcgis` Python package installed. You can manage your packages with `pip` and a `requirements.txt` file to keep track of dependencies.
 
 ## Step 1: Import Libraries
-Let's start by importing the necessary libraries. We will handle any import errors to ensure our script doesn't fail unexpectedly.
+Begin by importing the necessary libraries and handle any import errors to ensure our script doesn't fail unexpectedly.
 
 ```python
 try:
@@ -131,4 +131,4 @@ if __name__ == "__main
 ```
 
 ## Conclusion
-We've walked through an end-to-end process for updating a feature layer in ArcGIS Online. We started by establishing a secure connection to GIS, proceeded with robust data handling using pandas, and concluded by overwriting the existing feature layer with new data. By encapsulating our logic in functions, we’ve made our code modular, reusable, and much easier to maintain.
+We walked through an end-to-end process for updating a feature layer in ArcGIS Online. We started by establishing a secure connection to GIS, proceeded with robust data handling using pandas, and concluded by overwriting the existing feature layer with new data. By encapsulating our logic in functions, we’ve made our code modular, reusable, and much easier to maintain.
