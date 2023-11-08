@@ -124,7 +124,7 @@ display(csv_item)
 
 ## Conclusion
 
-You have now successfully exported a feature layer to a CSV, managed the content on ArcGIS Online, and performed data manipulation using pandas. This script can serve as a foundation for automating data backups and managing GIS data products programmatically.
+We've successfully exported a feature layer to a CSV, managed the content on ArcGIS Online, and performed data manipulation using pandas. This script can serve as a foundation for automating data backups and managing GIS data products programmatically.
 
 Remember to replace placeholder text such as 'your_feature_layer_item_id', 'your_organization', 'your_username', 'your_password', and 'your_csv_file.csv' with your actual item IDs, organization URL, username, password, and file paths.
 
