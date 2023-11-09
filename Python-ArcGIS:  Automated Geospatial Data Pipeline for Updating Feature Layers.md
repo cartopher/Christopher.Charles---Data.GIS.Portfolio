@@ -1,4 +1,4 @@
-# Automated Geospatial Data Update Pipeline for ArcGIS Feature Layers
+# AAutomated Geospatial Data Update Pipeline for ArcGIS Feature Layers
 The script is designed to automate the process of updating an ArcGIS Feature Layer with new data fetched from an external source (in this case, an S3 bucket), while handling potential data duplicates and saving a log of the operations to the local filesystem. It neatly encapsulates common tasks into functions for better code organization and maintainability.
 The code accomplishes several tasks related to fetching, processing, and updating geospatial data:
 
