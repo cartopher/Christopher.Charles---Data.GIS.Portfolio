@@ -1,4 +1,5 @@
-# Spiritual Exemplars: A Global Project on Engaged Spirituality
+# Mapping 104 Humanitarian Profiles
+### Spiritual Exemplars: A Global Project on Engaged Spirituality
 
 #### Description:  
 Project was selected for showcase at Esri’s 2024 User Conference
