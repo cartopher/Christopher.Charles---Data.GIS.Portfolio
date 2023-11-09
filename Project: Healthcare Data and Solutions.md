@@ -1,4 +1,4 @@
-# Bay Park Data Solutions  
+# Healthcare Data & Solutions
 ### Data Product Marketing Project  
 - Hub Site: [Healthcare Data and Solutions](https://arcg.is/W4v040)  
 #### Description:  
