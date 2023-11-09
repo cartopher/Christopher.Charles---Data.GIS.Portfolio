@@ -1,6 +1,6 @@
 # Annual Precipitation Heatmap Generator
 
-
+The provided Python code performs a series of data manipulation and visualization tasks related to historic precipitation data using Pandas for data handling, Seaborn, and Matplotlib for plotting.
 
 This script loads precipitation data, processes it, and generates a heatmap visual saved as a PDF by performing the following tasks:
 
@@ -28,7 +28,7 @@ This script loads precipitation data, processes it, and generates a heatmap visu
    - The data is then grouped by the 'Year' column, and the mean value for each month and the annual average is calculated.
    - Finally, it calls the `create_heatmap` function to generate and save the heatmap into a PDF file named as per the `OUTPUT_PDF` constant.
 
-The script is well-structured and modular, making it easy to understand and maintain. The use of functions promotes code reusability and clarity. It is designed to be run as a standalone script, and its execution starts only if it's the main program being run, which is a good practice in Python scripts.
+This code is quite comprehensive in its approach to data visualization, ensuring the final output is not only informative but also aesthetically pleasing and well-documented. As a student interested in data automation and analytics, understanding how each part of this script contributes to the final output is crucial for crafting visualizations that tell a compelling data-driven story.
 
 ```python
 # Import modules
