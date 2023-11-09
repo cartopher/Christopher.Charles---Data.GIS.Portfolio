@@ -1,4 +1,4 @@
-Paginated JSON Data Aggregator
+# Paginated JSON Data Aggregator
 
 This script is useful for aggregating JSON data from multiple paginated sources into a single CSV file, especially when dealing with large datasets split across multiple pages on a web server. The improved version with error handling, dynamic fetching, and checks for data integrity makes it robust for practical use in data processing workflows.
 
