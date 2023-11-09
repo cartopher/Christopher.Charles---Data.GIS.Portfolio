@@ -4,21 +4,19 @@ This script is useful for aggregating JSON data from multiple paginated sources 
 
 The code performs the following tasks:
 
-1. **Establishes a GIS Connection**: It connects to an ArcGIS Online account using the `GIS` class from the `arcgis` Python package, authenticated as the current user logged into the system ("home").
+1. **Data Aggregation**: It initializes an empty DataFrame (`combined_df`) to hold data from multiple JSON payloads.
 
-2. **Data Aggregation**: It initializes an empty DataFrame (`combined_df`) to hold data from multiple JSON payloads.
-
-3. **Data Retrieval and Conversion**:
+2. **Data Retrieval and Conversion**:
    - Defines a `fetch_data` function that takes a `page_number` as an argument, constructs a URL for the JSON data located on an S3 bucket, and attempts to fetch the data.
    - The JSON response is checked for successful retrieval (`response.raise_for_status()`), and if successful, it is converted into a pandas DataFrame.
    - If any HTTP errors or general exceptions occur during the request, they are caught, and `None` is returned, indicating a failure to retrieve data.
 
-4. **Iterative Data Fetching**:
+3. **Iterative Data Fetching**:
    - Starts a loop from `page_number = 1` and incrementally fetches data by calling the `fetch_data` function. 
    - After each successful fetch, the data is appended to the `combined_df` DataFrame.
    - The loop continues until `fetch_data` returns `None` or an empty DataFrame, which signifies that there is no more data to fetch or an error has occurred.
 
-5. **Data Persistence**:
+4. **Data Persistence**:
    - Once all pages have been fetched and combined into `combined_df`, it checks whether the DataFrame is empty.
    - If it's not empty, the DataFrame is saved to a CSV file named `OutPatient_update_march.csv` in the specified `data_directory`. The CSV file is saved without the DataFrame index (`index=False`).
    - It prints the path to the saved CSV file or a message stating that no CSV file was created if the DataFrame is empty.
