@@ -1,4 +1,4 @@
-# Automating Backups and Publishing Content on ArcGIS Online
+# ArcGIS Online: Automating Backups and Publishing Content
 
 The script facilitates the backing up of GIS items by exporting them as feature collections, downloading these collections, publishing them back to the ArcGIS Online platform, and sharing them within the organization.
 
