@@ -1,4 +1,4 @@
-<div align="center">Your centered text here</div># CHRISTOPHER J. CHARLES
+# CHRISTOPHER J CHARLES
 ## The Portfolio of a Geographer, Data/GIS Analyst, and Developer
 [Email Me](mailto:chris.jonh.charles@gmail.com) | [Resume](https://github.com/cartopher/Christopher.Charles---Data.GIS.Portfolio/blob/main/ChristopherCharles_ResumeNov1-23%20.pdf) | [LinkedIn](https://www.linkedin.com/in/chrisjonhcharles/) | [GitHub](https://github.com/cartopher) | [ArcGIS Content](https://arcg.is/1zvHm8)
 
