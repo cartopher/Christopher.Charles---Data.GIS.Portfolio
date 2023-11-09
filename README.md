@@ -1,6 +1,6 @@
 # CHRISTOPHER J. CHARLES
 ## The Portfolio of a Geographer, Data/GIS Analyst, and Developer
-[Email Me](mailto:chris.jonh.charles@gmail.com) | [Resume](https://github.com/cartopher/portfolio/blob/main/Christopher%20Charles%20Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/chrisjonhcharles/) | [GitHub](https://github.com/cartopher) | [GIS Content](https://arcg.is/1zvHm8) (In Progress)
+[Email Me](mailto:chris.jonh.charles@gmail.com) | [Resume](https://github.com/cartopher/portfolio/blob/main/Christopher%20Charles%20Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/chrisjonhcharles/) | [GitHub](https://github.com/cartopher) | [GIS Content](https://arcg.is/1zvHm8) (In Progress)  
 [Projects](https://github.com/cartopher/portfolio/tree/main/Projects) | [Python Scripts](https://github.com/cartopher/portfolio/tree/main/PythonArcGIS) | [Certificates](https://github.com/cartopher/portfolio/tree/main/Certificates)  
 **Project Spotlight**: [Mapping 104 Humanitarian Profiles](https://github.com/cartopher/portfolio/blob/main/Projects/Mapping%20104%20Humanitarian%20Profiles.md) (Selected for showcase at Esri’s 2024 User Conference)
 
