@@ -98,3 +98,4 @@ if __name__ == "__main__":
     # Create and save heatmap
     create_heatmap(grouped_data, OUTPUT_PDF)
 ```
+![Precipitation Heat Map](https://github.com/cartopher/Christopher.Charles---Data.GIS.Portfolio/blob/main/output/images/AnnualPrecipitationSeabornHeatmap.png?raw=true "Precipitation Heat Map Example")
