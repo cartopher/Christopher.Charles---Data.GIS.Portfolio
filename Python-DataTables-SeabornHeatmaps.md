@@ -1,6 +1,6 @@
 # **Creating Data Tables using Seaborn Heat Maps**
 
-The Python script is designed to create a standard data table from a Seaborn heatmap to display soil health data in a PDF format. Below is a step-by-step breakdown of what each major segment of the code does:
+The script is designed to produce a visual representation, specifically a heatmap in standard table form, of soil health data collected from the Bamberger Wildlife Preserve. The table is saved as a PDF document. Key steps in the process include:
 
 1. **Environment Setup:**
    - Imports necessary libraries for file operations, data manipulation, visualization, and PDF output.
@@ -27,7 +27,7 @@ The Python script is designed to create a standard data table from a Seaborn hea
    - Saves the generated heatmap into the PDF file while ensuring the layout is tight (without unnecessary white space).
    - Closes the plot to free up resources.
 
-The output is a detailed and visually appealing heatmap in data table form representing various soil health metrics across different testing dates, saved as a PDF file in the specified directory.
+This automated visualization script helps in efficiently analyzing and reporting soil condition trends and changes over time, providing a clear and accessible way to present complex data.
 
 ```python
 import os
