@@ -1,0 +1,43 @@
+MCH Institution Type Name,Field Name,Format Type,Field Description
+Fire and Ambulance,Institution ID,Integer,Institution Permanent Identification Number
+Fire and Ambulance,MCH Institution Type,String,MCH Institution Type
+Fire and Ambulance,Institution Name,String,The name of the institution.
+Fire and Ambulance,Mailing Address,String,The mailing address of the institution.
+Fire and Ambulance,Mailing Address2,String,Additional mailing address information to aid in delivery.
+Fire and Ambulance,Mailing City,String,The mailing city of the institution.
+Fire and Ambulance,Mailing State,String,The mailing state of the institution.
+Fire and Ambulance,Mailing Zip,String,The mailing zip code of the institution.
+Fire and Ambulance,Mailing Zip4,String,The mailing zip + 4 code of the institution.
+Fire and Ambulance,Mailing County FIPS,String,The mailing county FIPS code of the institution.
+Fire and Ambulance,Mailing County,String,The mailing county name of the institution.
+Fire and Ambulance,MSA,String,The physical metropolitan statistical area code of the institution.
+Fire and Ambulance,CBSA,String,The core based statistical area code of the institution.
+Fire and Ambulance,Phone Number,String,The phone number of the institution.
+Fire and Ambulance,Physical Address,String,The physical address of the institution.
+Fire and Ambulance,Physical Address 2,String,Additional physical address information to aid in location identification.
+Fire and Ambulance,Physical City,String,The physical city of the institution.
+Fire and Ambulance,Physical State,String,The physical state of the institution.
+Fire and Ambulance,Physical Zip,String,The physical zip code of the institution.
+Fire and Ambulance,Physical County FIPS,String,The physical county FIPS code of the institution.
+Fire and Ambulance,Physical County,String,The physical county name of the institution.
+Fire and Ambulance,Website URL,String,URL for website related to the institution.
+Fire and Ambulance,NAICS Code-Primary,String,The North American Industry Classification System code.
+Fire and Ambulance,SIC Code-Primary,String,The Standard Industry Classification (SIC) code.
+Fire and Ambulance,Institution New-to-File Date,String,The date the institution record was added to the MCH database. Institutions with a date of 1950 were added to the MCH system prior to using date stamps on the data.
+Fire and Ambulance,Local Population,Integer,The population of the city or town.
+Fire and Ambulance,Population Score,String,"A score from 1 to 10 of the population of the area, with 1 being the most populated and 10 being the least populated."
+Fire and Ambulance,Wealth Score,String,Indicates the wealth score of the institution.
+Fire and Ambulance,Parent ID,Integer,Immediate Parent PIN for the institution.
+Fire and Ambulance,Parent Name,String,The institution name of the immediate parent organization.
+Fire and Ambulance,Main Parent ID,Integer,Institution PIN representing the highest valid PIN in the parent list. Defines the hierarchy for institutions.
+Fire and Ambulance,Main Parent Name,String,The institution name representing the highest organization in the hierarchy.
+Fire and Ambulance,Ambulance Services Operated by Hospital,String,Indicates that the ambulance service is affiliated with a specific hospital or hospital system.
+Fire and Ambulance,Type of Facility,String,Indicates the type of institution.
+Fire and Ambulance,Type of Institution,String,Indicates the type of institution.
+Fire and Ambulance,Geo Precision 1,String,Indicates the level of accuracy of the geo code.
+Fire and Ambulance,Latitude,Double,"The distance running north or south of the earth's equator, expressed in degrees and minutes."
+Fire and Ambulance,Longitude,Double,"The distance east or west of the meridian at Greenwich, England, expressed in degrees and minutes."
+Fire and Ambulance,Location,String,Indicates the location of the Ambulance Services.
+Fire and Ambulance,Number of Responders,Integer,The number of responders at a specific emergency service.
+Fire and Ambulance,Number of Responders Code,String,"Indicated number of responders at a specific emergency service, shown in range values."
+Fire and Ambulance,Types of Services/Departments,String,Indicates the type of institution.
