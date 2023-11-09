@@ -1,4 +1,4 @@
-# **ArcGIS API for Python: Automating GIS Data Backups and Publishing**
+# **ArcGIS Online Backup and Publish Automation**
 
 The script facilitates the backing up of GIS items by exporting them as feature collections, downloading these collections, publishing them back to the ArcGIS Online platform, and sharing them within the organization.
 
