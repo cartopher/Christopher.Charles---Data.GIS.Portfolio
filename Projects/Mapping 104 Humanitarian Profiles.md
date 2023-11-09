@@ -10,5 +10,5 @@
 ### Map Viewer: [Spiritual Exemplars Around the World](https://arcg.is/1mHuyf)  
 
 ## Microsoft Power BI Reports 
--![Exemplar Report](https://github.com/cartopher/Christopher.J.Charles...Portfolio/blob/main/Projects/Past%20Works/Output/Images/ExemplarReport_Page1.pdf?r "Exemplar Report Sample")
+-![Exemplar Report](https://github.com/cartopher/Christopher.J.Charles...Portfolio/blob/main/Projects/Past%20Works/Output/Images/ExemplarReport_Page1.pdf?r "Exemplar Report Sample")  
 -![Exemplar Report](https://github.com/cartopher/Christopher.J.Charles...Portfolio/blob/main/Projects/Past%20Works/Output/Images/ExemplarReport_Page2.pdf?r "Exemplar Report Sample")
