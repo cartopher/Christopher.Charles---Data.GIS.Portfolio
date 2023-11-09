@@ -1,10 +1,7 @@
-## Soil for Water  
-### Texas Land Use Reports
-
-#### Description:  
-
-- Report:  
-- StoryMap:  
+# Texas Land Use Reports 
+## Soil for Water: Soil Rejuvenation and Sustainable Agricultural Practices
+### Report:  
+### StoryMap:  
 
 
 ##### Sources:  
