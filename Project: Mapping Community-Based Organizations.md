@@ -1,5 +1,5 @@
-# Center for Nonprofit Management  
-## Alliance for Girls : Mapping Community-Based Organizations & Nonprofits  
+# Mapping Community-Based Organizations & Nonprofits  
+### Alliance for Girls
 
 #### Description:  
 
