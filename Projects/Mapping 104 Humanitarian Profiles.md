@@ -4,7 +4,7 @@
 ### Publication: [Spiritual Exemplars Around the World](https://crcc.usc.edu/spiritual-exemplars-around-the-world/)  
 ### StoryMap: [Environmental Justice & Spiritual Exemplars]()  
 ### StoryMap: [Spiritual Exemplars Around the World](https://arcg.is/mTGfb)
-### Dashboard:[Exemplars Demographics Dashboard](https://arcg.is/1P9LLu0)
+### Dashboard: [Exemplars Demographics Dashboard](https://arcg.is/1P9LLu0)
 ### Experience Builder: [Spiritual Exemplars Around the World](https://arcg.is/1f8mHP)  
 ### Map Viewer: [Spiritual Exemplars Around the World](https://arcg.is/1mHuyf)  
 
