@@ -13,4 +13,4 @@
 
 ### Microsoft Power BI Reports 
 - [Exemplar Report Page 1](https://github.com/cartopher/Christopher.Charles---Data.GIS.Portfolio/blob/main/output/images/ExemplarReport_Page1.pdf)  
-= [Exemplar Report Page 2](https://github.com/cartopher/Christopher.Charles---Data.GIS.Portfolio/blob/main/output/images/ExemplarReport_Page2.pdf)
+- [Exemplar Report Page 2](https://github.com/cartopher/Christopher.Charles---Data.GIS.Portfolio/blob/main/output/images/ExemplarReport_Page2.pdf)
