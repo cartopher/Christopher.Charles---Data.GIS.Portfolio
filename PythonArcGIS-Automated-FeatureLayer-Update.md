@@ -1,19 +1,7 @@
 # Overwriting Feature Layers with ArcGIS Python API
 The Python script is for updating feature layers in ArcGIS Online with best practices, adding robustness and modularity to the process of updating a GIS dataset with new data.
 
-## Prerequisites:
-- ArcGIS Online Account
-- Python 3.x installed
-- `arcgis` Python package installed
-- Familiarity with Python, pandas, and the ArcGIS Python API
 
-## Setup:
-Ensure the virtual environment set up for this project. This environment should have the `arcgis` Python package installed. You can manage your packages with `pip` and a `requirements.txt` file to keep track of dependencies.
-
-## Step 1: Import Libraries
-Begin by importing the necessary libraries and handle any import errors to ensure our script doesn't fail unexpectedly.
-
-```python
 try:
     from arcgis.gis import GIS
     import pandas as pd
