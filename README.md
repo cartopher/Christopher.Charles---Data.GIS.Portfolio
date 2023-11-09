@@ -13,3 +13,6 @@ In addition to his mainstream work, Christopher is diving deep into the possibil
 
 For those interested in collaborating on groundbreaking GIS projects or exploring innovative solutions in GeoAI and blockchain, Christopher welcomes the opportunity for discussion. His GIS journey is one of perpetual innovation—a field where projects evolve as rapidly as the landscapes they represent, challenging him to continuously adapt and refine his methodologies. To catch a glimpse of Christopher's evolving GIS work, you're invited to explore his [Project Gallery on Instant Apps](https://arcg.is/1zvHm8). Keep in mind, this gallery is a living portfolio—always being fine-tuned and expanded to include more innovative solutions. You can reach out to him directly at his email: [chris.jonh.charles@gmail.com](mailto:chris.jonh.charles@gmail.com). To view his complete professional journey and network, visit [https://www.linkedin.com/in/chrisjonhcharles/]
 
+<iframe src="https://github.com/cartopher/Christopher.Charles---Data.GIS.Portfolio/blob/main/ChristopherCharles_ResumeNov1-23%20.pdf" width="100%" height="600px">
+    <p>Your browser does not support iframes. <a href="https://github.com/cartopher/Christopher.Charles---Data.GIS.Portfolio/blob/main/ChristopherCharles_ResumeNov1-23%20.pdf">Click here</a> to download the PDF.</p>
+</iframe>
