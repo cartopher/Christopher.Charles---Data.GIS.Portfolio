@@ -1,4 +1,4 @@
-# ArcGIS Online: Automated Feature Layer Update with CSV Integration
+# ArcGIS Online: Automate Feature Layer Updates with CSV Integration
 
 The purpose of the script is to automate the process of updating a feature layer in ArcGIS Online by integrating new data from a CSV file. It reads in an existing dataset, appends new data from a source CSV, removes duplicates based on a unique identifier, saves the updated dataset as a CSV, and then overwrites the existing feature layer with the new data. This process ensures that the feature layer reflects the most current data available without manual intervention, streamlining data management tasks for GIS analysts.
 
