@@ -3,7 +3,7 @@
 ### Experience Builder: [Heat Map of Community-Based Organizations & Nonprofits](https://arcg.is/1mrv1D)  
 ### Map Viewer: [Heat Map of Community-Based Organizations & Nonprofits](https://arcg.is/nXWiK)  
 
-****Description:
+#### Description:
 In my capacity at Bay Park Data Solutions, I successfully designed and implemented a web mapping application for the "Alliance For Girls - Los Angeles." This innovative tool serves a pivotal role in visualizing a heat map of community-based organizations and nonprofits dedicated to serving girls and gender-expansive youth within Service Planning Areas (SPA) 6 and 7. The primary goal of this project was to enhance outreach efforts, ensuring that services reach those most in need effectively and efficiently.
 
 The web mapping application was meticulously crafted using the Esri ArcGIS Suite, integrating core GIS tools such as ArcGIS Online and leveraging web and app development capabilities through Experience Builder. My expertise in Python and JavaScript played a crucial role in automating data processing tasks and enriching the application with interactive features that provide users with an intuitive and informative experience.
