@@ -13,8 +13,6 @@
 [Exemplar Report - Page 1](https://github.com/cartopher/Christopher.J.Charles...Portfolio/blob/main/Projects/Past%20Works/Output/Images/ExemplarReport_Page1.pdf)  
 [Exemplar Report - Page 2](https://github.com/cartopher/Christopher.J.Charles...Portfolio/blob/main/Projects/Past%20Works/Output/Images/ExemplarReport_Page2.pdf)  
 
--
-
 #### Description:
 At Bay Park Data Solutions, leveraging our proficiency in GIS and web mapping technologies, we undertook the development of the "Spiritual Exemplars Around the World" map application. This project was initiated for the University of Southern California Center for Religion and Civic Culture (CRCC), with the objective of showcasing the impactful stories of 104 spiritual exemplars globally. These individuals are recognized for their contributions to human flourishing through engaged spirituality, representing a diverse array of faith traditions and areas of work.
 
