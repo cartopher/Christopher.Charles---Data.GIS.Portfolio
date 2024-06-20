@@ -1,4 +1,4 @@
-### Scenario 2: Data Interpretation and Conversion
+### Workflow 2: Data Interpretation and Conversion
 
 **Task**: Converting and integrating data from various sources into the GIS database.
 
