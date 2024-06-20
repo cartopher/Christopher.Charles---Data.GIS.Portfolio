@@ -1,4 +1,4 @@
-### Scenario 6: Training and Oversight of GIS & Engineering Interns
+### Workflow 6: Training and Oversight of GIS & Engineering Interns
 
 **Task**: Mentoring and providing training to GIS and engineering interns.
 
