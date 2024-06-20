@@ -1,4 +1,4 @@
-### Scenario 5: Geospatial Analysis
+### Workflow 5: Geospatial Analysis
 
 **Task**: Performing spatial analyses to support city planning and operations.
 
