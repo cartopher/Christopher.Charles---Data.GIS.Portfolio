@@ -1,4 +1,4 @@
-### Scenario 1: Data Editing and Maintenance
+### Workflow 1: Data Editing and Maintenance
 
 **Task**: Daily updates to the city’s GIS database.
 
