@@ -1,4 +1,4 @@
-### Scenario 4: Map and Exhibit Creation
+### Workflow 4: Map and Exhibit Creation
 
 **Task**: Designing and producing maps and exhibits.
 
