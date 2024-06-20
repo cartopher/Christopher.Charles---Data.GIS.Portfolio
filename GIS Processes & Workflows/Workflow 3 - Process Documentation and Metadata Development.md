@@ -1,4 +1,4 @@
-### Scenario 3: Process Documentation and Metadata Development
+### Workflow 3: Process Documentation and Metadata Development
 
 **Task**: Documenting workflows and creating metadata for GIS datasets.
 
